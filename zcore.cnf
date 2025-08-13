@@ -1,0 +1,19 @@
+[zcore]
+serverlist = sorcery
+botmaster = JC,chaz,Neo_Nemesis,Apple_Master
+botmodes = 0
+pingtime = 75
+system = sys_zcore
+plugins = trivia
+
+[sorcery]
+serverid = sorcery
+serveraddr = irc.sorcery.net
+serverport = 6667
+serverssl = no
+botname = Trivia
+botpass = 0
+channels = #Trivia
+admin = 0
+access = 0
+akick = 0
