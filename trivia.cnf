@@ -1,0 +1,15 @@
+[trivia]
+serverlist = sorcery
+categories = acronym-soup,anatomy,animals,art-and-literature,brain-bender,category-bag,entertainment,food-and-drink,general,movies-tv-music,trivia-bag,astrology,words-and-numbers
+hour = 0
+day = 0
+week = 0
+month = 0
+year = 0
+
+[sorcery]
+channels = #trivia
+time_control = on
+
+[servername1_channel]
+cache = 0
