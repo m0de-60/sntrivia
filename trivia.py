@@ -73,7 +73,7 @@ def plugin_init_():
 
     # ############## TRIVIA CONTROL ################
     # Trivia Control
-    pdata['trivia'] = False  # Automatically start trivia (False to disable)
+    pdata['trivia'] = True  # Automatically start trivia (False to disable)
     # Trivia Control
     # ##############################################
 
@@ -1774,4 +1774,5 @@ if test2 is True:
     print(f"{playerstats('espernet', bytes('#testwookie', 'utf-8'), 'neo_nemesis', 'score')}")
     print(f"{playerstats('espernet', bytes('#testwookie', 'utf-8'), 'neo_nemesis', 'wins')}")
     print(f"{playerstats('espernet', bytes('#testwookie', 'utf-8'), 'neo_nemesis', 'streak')}")
+
     print(f"{playerstats('espernet', bytes('#testwookie', 'utf-8'), 'neo_nemesis', 'best')}")
