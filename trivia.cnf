@@ -1,11 +1,11 @@
 [trivia]
 serverlist = sorcery
 categories = acronym-soup,anatomy,animals,art-and-literature,brain-bender,category-bag,entertainment,food-and-drink,general,movies-tv-music,trivia-bag,astrology,words-and-numbers
-hour = 09
-day = 13
-week = 33
-month = 08
-year = 2025
+hour = 0
+day = 0
+week = 0
+month = 0
+year = 0
 
 [sorcery]
 channels = #trivia
@@ -16,12 +16,12 @@ cache = 0
 
 [sorcery_trivia]
 cache = 0
-neo_nemesis = 13980,2,2,35.1
 
 [sorcery_tcd]
-trivia_h = 13980^Neo_Nemesis
-trivia_d = 13980^Neo_Nemesis
-trivia_w = 13980^Neo_Nemesis
-trivia_m = 13980^Neo_Nemesis
-trivia_y = 13980^Neo_Nemesis
+trivia_h = 0
+trivia_d = 0
+trivia_w = 0
+trivia_m = 0
+trivia_y = 0
+
 
